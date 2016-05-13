@@ -1,0 +1,47 @@
+#========================================================================
+# Task 1: Cities visited by a person
+#========================================================================
+#------------------------------------------------------------------------
+# Create the list of people
+#------------------------------------------------------------------------
+
+# Open the travel.txt file
+# read a line of data
+# Start an empty list of people
+# Loop:
+    # get the three values from the line
+    # if the person's name isn't in the list of people:
+        #add it to the list.
+    # Read the next line            
+# Close the file
+# Sort the list --> listname.sort()
+# Loop to display each name in the list
+
+
+# Ask for a name to list the cities travelled to.
+
+#------------------------------------------------------------------------
+# Look through the file to find the pets owned.
+#------------------------------------------------------------------------
+# Open the file:
+# Read a line
+# print heading " Cities travelled to:"
+# Loop:
+    # Get the three fields:
+    # Clean the values
+    # If the value from the file matches the name entered:
+        # Print the city that was visited
+    # Read the next line
+
+# Close the file
+
+
+
+#========================================================================
+# Task 2: Append to the file
+#========================================================================
+
+# Prompt for the three values. Repeat prompt until something is entered.
+
+# Open file, write values, close file.
+
